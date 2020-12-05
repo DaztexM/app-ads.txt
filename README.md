@@ -1,4 +1,3 @@
-#Last updated November 13th 2020
 #Appodeal
 appodeal.com, 65132, DIRECT
 #BidMachine
